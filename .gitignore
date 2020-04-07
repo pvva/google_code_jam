@@ -1,0 +1,10 @@
+# Test binary, build with `go test -c`
+*.test
+
+
+# vim bak files
+.*~
+
+# IntelliJ
+.idea
+*.iml
